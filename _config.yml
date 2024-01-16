@@ -29,11 +29,14 @@ github_username:  vindem
 linkedin_username: vindem
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 #remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+show_downloads: false
+is_project_page: false
+is_user_page: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
