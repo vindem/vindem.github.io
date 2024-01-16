@@ -35,8 +35,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 show_downloads: false
-is_project_page: false
-is_user_page: true
+logo: assets/img/profile-pic-website.jpg
+
+github:
+  is_project_page: false
+  is_user_page: true 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
