@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome!"
 date:   2024-01-17 09:27:58 +0100
 categories: website-update
+author: Vincenzo De Maio
+tags: website, tools
 ---
 Welcome to the new version of my personal website! I decided to migrate from wordpress to Jekyll and to github personal pages. Here you can find some information about Jekyll: [Jekyll docs][jekyll-docs]
 
