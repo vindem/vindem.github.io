@@ -16,6 +16,10 @@ Useful resources, not necessarily correlated to my work.
 ## Documents
 - My PhD Thesis: [Virtual Machine Migration Energy Consumption Simulation in Cloud Computing](/assets/docs/VincenzoDeMaio-PhDThesis-NoAcknowledgements.pdf)
 
+## Media appearances
+- [Künstliche Intelligenz für mehr Sicherheit im Straßenverkehr](https://www.derstandard.at/story/2000136176620/kuenstliche-intelligenzwie-die-sicherheit-im-strassenverkehr-und-das-klima-durch) (GER), an article about my work on SWAIN and InTraSaFeD5G, on the online version of der standard
+- [TEWI Kolloquium 14/03/2023 - Klagenfurt](https://www.youtube.com/watch?v=WWUuvuPX_wQ), my talk about Distributed Systems in the Post-Moore Era, for the TEWI Kolloquium at the University of Klagenfurt
+
 ## Interesting Readings
 - [Scott Aaronson Blog](https://scottaaronson.blog/), the personal blog of Scott Aaronson, one of my favourite scientists.
 - [Quantum Computing Hype is Bad for Science](https://www.linkedin.com/pulse/quantum-computing-hype-bad-science-victor-galitski-1c/?utm_source=share&utm_medium=member_android&utm_campaign=share_via), a very interesting article of Victor Galitski about quantum hype

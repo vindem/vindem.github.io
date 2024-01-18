@@ -67,3 +67,6 @@ I am learning spanish guitar and enjoy playing guitar when I am in the right moo
 
 ## Trekking
 Walking is the closest thing to meditation, for me. When I get the chance, I like to go for long trekking trips, such as the [Camino de Santiago](https://www.caminodesantiago.gal/en) and the [via Francigena](https://www.viefrancigene.org/en/). If you are around my hometown, I can strongly recommend the [Sentiero degli dei](https://costieraamalfitana.com/en/the-path-of-the-gods/) (literally "The path of the gods"), a breathtaking hike in the Amalfi Coast on the path that connects Bomerano to Positano. 
+
+## Volunteer
+I support the italian no-profit [Informatici Senza Frontiere](https://www.informaticisenzafrontiere.org/) by giving free classes to immigrants and students in need. If you also want to support this project, click [here](https://www.informaticisenzafrontiere.org/donate/). 
