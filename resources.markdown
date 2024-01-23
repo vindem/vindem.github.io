@@ -28,6 +28,7 @@ Useful resources, not necessarily correlated to my work.
 - [XKCD, a webcomic of romance, sarcasm, math, and language](https://xkcd.com/)
 - [Dulwich Quantum Computing](https://dulwichquantum.github.io/), a website about debunking quantum hype
 - [Dulwich Twitter](https://twitter.com/DulwichQuantum), the Twitter account of Dulwich Quantum Computing
+- [Quantum in things](https://x.com/quantuminthings), a Twitter account where they expose the misuse of work "quantum" for anything
 
 
 
