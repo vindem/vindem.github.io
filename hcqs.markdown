@@ -29,11 +29,11 @@ Full version: [PDF](https://owncloud.tuwien.ac.at/index.php/s/oB0Ov5xVqYbwGTW)
 The course presents the basics of HPC, integration with quantum systems as well as theoretical topics such as vectors, matrices, tensor products, pure states, mixed states, quantum circuits, variational quantum algorithms, quantum optimization, quantum machine learning, quantum error corrections and photonic quantum computing.
 
 ### Learning Outcomes
-* Explain how the physics of quantum computation is different from classical computational models;
-* Describe the theoretical performance improvements that quantum algorithms offer compared to classical algorithms;
-* Analyze the life cycle of hybrid applications and their execution on a hybrid classical-quantum continuum;
-* Describe some of the most prominent (hybrid) quantum algorithms and;
-* Implement them on (real or simulated) quantum computers using quantum programming toolkits such as Qiskit.
+
+1. Explain how the physics of quantum computation is different from classical computational models;
+2. Describe the theoretical performance improvements that (hybrid) quantum algorithms offer compared to classical algorithms;
+3. Analyze the life cycle of hybrid applications and decompose their execution on a hybrid classical-quantum continuum;
+4. Develop their own (hybrid) quantum algorithms and implement them using (real or simulated) quantum computers using quantum toolkits such as Qiskit.
 
 ### Textbook and Materials
 The main sources of this Lecture are the [Qiskit Textbook](https://learning.quantum.ibm.com/) and [“Quantum Computing for Computer Scientists”](https://www.cambridge.org/core/books/quantum-computing-for-computer-scientists/8AEA723BEE5CC9F5C03FDD4BA850C711), by Yanofski and Mannucci and edited by Cambridge Press. Also, in each lecture presentation slides you can find supportive reference materials and textbooks as additional study material.
