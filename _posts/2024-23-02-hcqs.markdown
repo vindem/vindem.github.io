@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hybrid Classical Quantum Systems"
+date:   2024-02-23 13:58:18 +0100
+categories: website-update
+author: Vincenzo De Maio
+tags: website, info
+---
+The page about my lecture on Hybrid Classical Quantum Systems, for the Software Engineering curriculum of Vienna University of Technology, Winter semester 2023/2024, is available [here](/teaching/hcqs/).
