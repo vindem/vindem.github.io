@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Paper accepted at CCGRID 2024"
+date:   2024-02-29 11:23:39 +0100
+categories: website-update
+author: Vincenzo De Maio
+tags: publications, conferences
+---
+The paper "Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing", co-authored with Meerzhan Kanatbekova, Felix Zilk, Nicolai Friis, Tobias Guggemos and Ivona Brandic, has been accepted for publication as full paper in the educational track of The 24th IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing, [CCGRID 2024](https://2024.ccgrid-conference.org/), that will be held in Philadelphia, USA, May 6-9 2024. Thanks to the scientific commitee of the conference and all the co-authors for making this possible. 
