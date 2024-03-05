@@ -16,10 +16,14 @@ permalink: /publications/
 </div>
 * * *
 My academic peer-reviewed publications.
+## 2024
+* * *
+- Vincenzo De Maio, Meerzhan Kanatbekova, Felix Zilk, Nicolai Friis, Tobias Guggemos, Ivona Brandic: *Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing.* IEEE/ACM CCGrid 2024 [arXiv preprint](https://arxiv.org/abs/2403.00885)
+
 
 ## 2023
 * * *
-- Sabrina Herbst, Vincenzo De Maio, Ivona Brandic: *Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case.* IEEE QuickPar@EuroPar 2023 (**to appear**)
+- Sabrina Herbst, Vincenzo De Maio, Ivona Brandic: *Streaming IoT Data and the Quantum Edge: A Classic/Quantum Machine Learning Use Case.* IEEE QuickPar@EuroPar 2023. [arXiv preprint](https://arxiv.org/abs/2402.15542)
 - Sabtain Ahmad, Halit Uyanik, Tolga Ovatman, Mehmet Tahir Sandikkaya, Vincenzo De Maio, Ivona Brandic, Atakan Aral: *Sustainable Environmental Monitoring via Energy and Information Efficient Multinode Placement*. IEEE Internet Things J. 10(24): 22065-22079 (2023)
 - Shashikant Ilager, Vincenzo De Maio, Ivan Lujic, Ivona Brandic: *Data-centric Edge-AI: A Symbolic Representation Use Case.* EDGE 2023: 301-308
 - Vincenzo De Maio, Ivona Brandic: *Accelerating Scientific Applications with the Quantum Edge: A Drug Design Use Case.* ISC Workshops 2023: 134-143
