@@ -10,15 +10,9 @@ permalink: /personal/
 Following my idol's Leonardo Da Vinci example, when I am not working on my research and teachings I like to keep my mind and body busy with different hobbies and activities. In this page, you will find information about my passions outside research.
 
 ## Cats
-I like all animals, but I consider myself a cat person. Here you can see my two cats, Behemoth and Kira.
+I like all animals, but I consider myself a cat person. Here you can see my cat, Behemoth, trying to imitate the Schrödinger's cat.
 
 <div id="cats" style="overflow: hidden;justify-content:space-around;" align="center">
-<div style="display: inline-block;">
-<figure>
-<a href="/assets/img/kira.jpg"><img src="/assets/img/kira.jpg" width="150" height="auto"></a>
-<figcaption>Kira</figcaption>
-</figure>
-</div>
 <div style="display:inline-block;">
 <figure>
 <a href="/assets/img/behemoth.jpg"><img src="/assets/img/behemoth.jpg" width="150" height="auto"></a>
