@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Article accepted at Future Generation Computer Systems"
+date:   2024-04-16 09:54:14 +0100
+categories: website-update
+author: Vincenzo De Maio
+tags: publications, journals
+---
+The paper "Paving the Way to Hybrid Quantum-Classical Scientific Workflows", co-authored with Sandeep Suresh Cranganore (Forschungszentrum Jülich), Ivona Brandic (TU Wien) and Ewa Deelman (University of Southern California) has been accepted for publication in the Elsevier journal "Future Generation Computer Systems". Thanks to the reviewers for their valuable comments and all the co-authors for their work.
+
+Abstract: The increasing growth of data volume, and the consequent explosion in demand for computational power, are affecting scientific computing, as shown by the rise of extreme data scientific workflows. As the need for computing power increases, quantum computing has been proposed as a way to deliver it. It may provide significant theoretical speedups for many scientific applications (i.e., molecular dynamics, quantum chemistry, combinatorial optimization, and machine learning).  Therefore, integrating quantum computers into the computing continuum constitutes a promising way to speed up scientific computation.  However, the scientific computing community still lacks the necessary tools and expertise to fully harness the power of quantum computers in the execution of complex applications such as scientific workflows. In this work, we describe the main characteristics of quantum computing and its main benefits for scientific applications, then we formalize hybrid quantum-classic workflows, explore how to identify quantum components and map them onto resources. We demonstrate concepts on a real use case and define a software architecture for a hybrid workflow management system. 
