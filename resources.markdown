@@ -20,7 +20,7 @@ Useful resources, not necessarily correlated to my work.
 - [Künstliche Intelligenz für mehr Sicherheit im Straßenverkehr](https://www.derstandard.at/story/2000136176620/kuenstliche-intelligenzwie-die-sicherheit-im-strassenverkehr-und-das-klima-durch) (GER), an article about my work on SWAIN and InTraSaFeD5G, on the online version of der standard
 - [TEWI Kolloquium 14/03/2023 - Klagenfurt](https://www.youtube.com/watch?v=WWUuvuPX_wQ), my talk about Distributed Systems in the Post-Moore Era, for the TEWI Kolloquium at the University of Klagenfurt
 - [Vienna University Researchers Develop Quantum Edge for Efficient IoT Data Streaming](https://quantumzeitgeist.com/vienna-university-researchers-develop-quantum-edge-for-efficient-iot-data-streaming/amp/), our QuickPar 2023 article featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/) (arxiv preprint accessible [here](https://arxiv.org/pdf/2402.15542.pdf))
-- [Quantencomputer und Supercomputer in einem](https://www.tuwien.at/tu-wien/aktuelles/news/news/quantencomputer-und-supercomputer-in-einem) (GER)
+- [Quantencomputer und Supercomputer in einem](https://www.tuwien.at/tu-wien/aktuelles/news/news/quantencomputer-und-supercomputer-in-einem) (GER), an article about our work on FFG HPQC project. English version available [here](https://informatics.tuwien.ac.at/news/2618).
 
 ## Interesting Readings
 - [Scott Aaronson Blog](https://scottaaronson.blog/), the personal blog of Scott Aaronson, one of my favourite scientists.
