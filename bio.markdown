@@ -7,7 +7,7 @@ permalink: /bio/
 ---
 # Bio
 * * *
-I am Vincenzo De Maio, a Postdoctoral Researcher at Vienna University of Technology. My main interests are Quantum Computing, with special focus on Quantum Machine Learning and Quantum Optimization, Edge/Cloud Computing, Sustainable Computing and Distributed Systems.
+I am Vincenzo De Maio, a Postdoctoral Researcher at TU Wien. My main interests are Quantum Computing, with special focus on Integration of Quantum Computers in HPC, Quantum Machine Learning, and Quantum Optimization, Edge/Cloud Computing, Sustainable Computing and Distributed Systems.
 
 I received my Ph.D in Computer Science at the [University of Innsbruck](http://www.uibk.ac.at) in November 2016, under the supervision of [Univ. Prof. Dr. Radu Prodan](http://www.itec.aau.at/~radu/) and [Dr. Gabor Kecskemeti](https://www.researchgate.net/profile/Gabor-Kecskemeti). My Ph.D. thesis, "Virtual Machine Migration Energy Consumption Simulation in Cloud Computing", is available in the [Resources](/resources/) section of the website. 
 
