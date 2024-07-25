@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Article accepted at IEEE International Conference on Business Informatics"
+date:   2024-07-10 10:24:27 +0100
+categories: website-update
+author: Vincenzo De Maio
+tags: publications, conference
+---
+The paper "RIGOLETTO: A Workflow Definition Language for Hybrid Quantum-Classical Scientific Applications", co-authored with Dominik Bork and Ivona Brandic, was accepted for publication at IEEE CBI 2024.
+
+Abstract: Scientific workflows constitute a pivotal resource for the scientific computing community, as they provide a standard interface to define, execute, and analyze the results of scientific computations. The advent of the Post-Moore era exposes the scientific computing research community with the challenge of scaling HPC facilities, to address the demands of modern scientific applications. While quantum computing, on one hand, promises noteworthy theoretical speedups for different scientific applications, executing a whole scientific workflow on quantum hardware is infeasible since not all computations can achieve a speedup on quantum hardware. As a consequence, computational scientists defined the concept of a hybrid quantum-classical workflow, which is capable of exploiting the capabilities of quantum and classical hardware. Since the adaptation of classical scientific workflows to the new hybrid quantum-classical scenario can be challenging for scientists, we propose RIGOLETTO, a workflow definition language allowing scientists to define where to execute each task on a hybrid quantum-classical system. As a proof-of-concept, we report on two scientific workflows and identify open challenges in the definition of hybrid quantum-classical workflows. 
+
+

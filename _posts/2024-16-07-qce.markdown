@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Paper accepted at IEEE International Conference on Quantum Computing and Engineering"
+date:   2024-04-16 09:54:14 +0100
+categories: website-update
+author: Vincenzo De Maio
+tags: publications, conferences
+---
+The paper "On Optimizing Hyperparameters for Quantum Neural Networks", co-authored with Sabrina Herbst and Ivona Brandic (TU Wien) has been accepted for publication in the conference IEEE QCE 2024.
+
+Abstract: The increasing capabilities of Machine Learning (ML) models go hand in hand with an immense amount of data and computational power required for training. Therefore, training is usually outsourced into HPC facilities, where we have started to experience limits in scaling conventional hardware, as theorized by Moore's law. Despite heavy parallelization and optimization efforts, current state-of-the-art ML models require weeks for training, which is associated with an enormous CO2 footprint. Quantum Computing, and specifically Quantum Machine Learning (QML), can offer significant theoretical speed-ups and enhanced expressive power. However, training QML models requires tuning various hyperparameters, which is a nontrivial task, and suboptimal choices can highly affect the trainability and performance of the models. In this study, we identify main hyperparameters and collect data about the performance of QML models on real-world data. Notably, we build on existing work by also benchmarking different proposed parameter initialization strategies, which should help avoid trainability issues, such as Barren Plateaus. We compare different configurations and provide researchers with performance data and concrete suggestions for hyperparameter selection. 
+
+ArXiv preprint available [here](https://arxiv.org/pdf/2403.18579).
