@@ -2,7 +2,7 @@
 layout: post
 title:  "Article accepted at Future Generation Computer Systems"
 date:   2024-04-16 09:54:14 +0100
-categories: website-update
+categories: journal-paper
 author: Vincenzo De Maio
 tags: publications, journals
 ---

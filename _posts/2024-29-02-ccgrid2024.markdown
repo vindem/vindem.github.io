@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper accepted at CCGRID 2024"
 date:   2024-02-29 11:23:39 +0100
-categories: website-update
+categories: conference-paper
 author: Vincenzo De Maio
 tags: publications, conferences
 ---

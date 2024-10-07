@@ -2,7 +2,7 @@
 layout: post
 title:  "Paper accepted at IEEE International Conference on Quantum Computing and Engineering"
 date:   2024-07-16 16:19:52 +0100
-categories: website-update
+categories: conference-paper
 author: Vincenzo De Maio
 tags: publications, conferences
 ---
