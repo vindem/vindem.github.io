@@ -44,7 +44,7 @@ I dance tango argentino since 2014 and it is one of my main passions. If I am tr
 </div>
 
 ## Table Tennis
-As a teenager, I played in the italian D2 championship of table tennis for the team of my hometown, the TT Caserta (today ASD Tennistavolo San Nicola - Caserta), earning a promotion in the italian D1 championship with my team. After a long break, from 2014 to 2015 I played in the Tiroler Gebietsliga for the [Turnerschaft-Sparkasse Innsbruck Tischtennis](https://www.innsbruck-tischtennis.at/). Since 2021, I play for the [TTK Naturfreunde Stadlau](https://www.ttk-naturfreunde-stadlau.at/), in the 3. Gruppe of [WTTV](https://wttv.at/joomla/) Championship. More data about my score can be found [here](https://oettv.xttv.at/ed/index.php?uebersicht=1773&lid=7351&spid=55603&sj=23).
+As a teenager, I played in the italian D2 championship of table tennis for the team of my hometown, the TT Caserta (today ASD Tennistavolo San Nicola - Caserta), earning a promotion in the italian D1 championship with my team. After a long break, from 2014 to 2015 I played in the Tiroler Gebietsliga for the [Turnerschaft-Sparkasse Innsbruck Tischtennis](https://www.innsbruck-tischtennis.at/). Since 2021, I play for the [TTK Naturfreunde Stadlau](https://www.ttk-naturfreunde-stadlau.at/), in the 2. Gruppe A of [WTTV](https://wttv.at/joomla/) Championship. More data about my score can be found [here](https://oettv.xttv.at/ed/index.php?uebersicht=1773&lid=7351&spid=55603&sj=24).
 
 ## Reading
 I like a lot to read in my free time, even if I do not always have a chance to stop and enjoy a good book. Here are some of my favourite books:
