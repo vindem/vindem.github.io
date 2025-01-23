@@ -16,6 +16,9 @@ permalink: /publications/
 </div>
 * * *
 My academic peer-reviewed publications.
+## 2025
+- Sabrina Herbst, Sandeep Suresh Cranganore, Vincenzo De Maio, Ivona Brandic: *Exploring Channel Distinguishability in Local Neighborhoods of the Model Space in Quantum Neural Networks* ICLR 2025 (to appear) [arXiv preprint](https://arxiv.org/abs/2410.09470)
+
 ## 2024
 * * *
 - Vincenzo De Maio, Dominik Bork, Ivona Brandic: *RIGOLETTO: A Workflow Definition Language for Hybrid Quantum-Classical Scientific Applications.* IEEE CBI 2024 (to appear).
