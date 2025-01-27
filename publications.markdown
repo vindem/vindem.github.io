@@ -22,9 +22,9 @@ My academic peer-reviewed publications.
 ## 2024
 * * *
 - Vincenzo De Maio, Dominik Bork, Ivona Brandic: *RIGOLETTO: A Workflow Definition Language for Hybrid Quantum-Classical Scientific Applications.* IEEE CBI 2024:40-49 [preprint](https://model-engineering.info/publications/papers/CBI-RIGOLETTO.pdf)
-- Vincenzo De Maio, Meerzhan Kanatbekova, Felix Zilk, Nicolai Friis, Tobias Guggemos, Ivona Brandic: *Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing.* IEEE/ACM CCGrid 2024 [arXiv preprint](https://arxiv.org/abs/2403.00885)
-- Sabrina Herbst, Vincenzo De Maio, Ivona Brandic: *On Optimizing Hyperparameters for Quantum Neural Networks.* IEEE QCE 2024:1478--1489 [ArXiv preprint](https://arxiv.org/abs/2403.18579)
-- Sandeep Suresh Cranganore, Vincenzo De Maio, Ivona Brandic, Ewa Deelman: *Paving the Way to Hybrid Classic-Quantum Scientific Workflows.* Elsevier Future Generation Computer Systems (accepted for publication). [Arxiv preprint](https://arxiv.org/abs/2404.10389)
+- Vincenzo De Maio, Meerzhan Kanatbekova, Felix Zilk, Nicolai Friis, Tobias Guggemos, Ivona Brandic: *Training Computer Scientists for the Challenges of Hybrid Quantum-Classical Computing.* IEEE/ACM CCGrid 2024:626-635 [arXiv preprint](https://arxiv.org/abs/2403.00885)
+- Sabrina Herbst, Vincenzo De Maio, Ivona Brandic: *On Optimizing Hyperparameters for Quantum Neural Networks.* IEEE QCE 2024:1478-1489 [ArXiv preprint](https://arxiv.org/abs/2403.18579)
+- Sandeep Suresh Cranganore, Vincenzo De Maio, Ivona Brandic, Ewa Deelman: *Paving the Way to Hybrid Classic-Quantum Scientific Workflows.* Elsevier Future Generation Computer Systems, vol. 158:346-366. [Arxiv preprint](https://arxiv.org/abs/2404.10389)
 
 ## 2023
 * * *
