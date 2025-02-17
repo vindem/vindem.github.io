@@ -21,6 +21,7 @@ Useful resources, not necessarily correlated to my work.
 - [TEWI Kolloquium 14/03/2023 - Klagenfurt](https://www.youtube.com/watch?v=WWUuvuPX_wQ), my talk about Distributed Systems in the Post-Moore Era, for the TEWI Kolloquium at the University of Klagenfurt
 - [Vienna University Researchers Develop Quantum Edge for Efficient IoT Data Streaming](https://quantumzeitgeist.com/vienna-university-researchers-develop-quantum-edge-for-efficient-iot-data-streaming/amp/), our QuickPar 2023 article featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/) (arxiv preprint accessible [here](https://arxiv.org/pdf/2402.15542.pdf))
 - [Quantencomputer und Supercomputer in einem](https://www.tuwien.at/tu-wien/aktuelles/news/news/quantencomputer-und-supercomputer-in-einem) (GER), an article about our work on FFG HPQC project. English version available [here](https://informatics.tuwien.ac.at/news/2618).
+- [Quantum in the Cloud](https://youtu.be/yPDCr70OVrw?si=LDrN6EpZ7k0HoIBJ), my talk for  [Second Eisenstadt Cloud Day](https://cloud-day.hochschule-burgenland.at/2025/) is available on YouTube.
 
 ## Interesting Readings
 - [Scott Aaronson Blog](https://scottaaronson.blog/), the personal blog of Scott Aaronson, one of my favourite scientists.
@@ -29,8 +30,8 @@ Useful resources, not necessarily correlated to my work.
 ## Fun
 - [XKCD, a webcomic of romance, sarcasm, math, and language](https://xkcd.com/)
 - [Dulwich Quantum Computing](https://dulwichquantum.github.io/), a website about debunking quantum hype
-- [Dulwich Twitter](https://twitter.com/DulwichQuantum), the Twitter account of Dulwich Quantum Computing
-- [Quantum in things](https://x.com/quantuminthings), a Twitter account where they expose the misuse of work "quantum" for anything
+- [Dulwich BlueSky](https://bsky.app/profile/dulwichquantum.bsky.social), the BlueSky account of Dulwich Quantum Computing
+- [Quantum in things](https://bsky.app/profile/quantuminthings.bsky.social), a BlueSky account where they expose the misuse of work "quantum" for anything
 
 
 
