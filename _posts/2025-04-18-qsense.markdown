@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Paper accepted in QSE-NE"
+date:   2025-01-23 10:19:00 +0100
+categories: conference-paper
+author: Vincenzo De Maio
+tags: publications, conferences
+---
+Our newest paper "The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software", co-authored with Ivona Brandic, Ewa Deelman, and Jürgen Cito, has been accepted in the First International Workshop on Quantum Software Engineering: The Next Evolution (co-located with [ESEC/FSE 2025](https://conf.researchr.org/home/fse-2025)). 
+
+Abstract: Quantum computing exhibits the unique capability to natively and efficiently encode various natural phenomena, promising theoretical speedups of several orders of magnitude. However, not all computational tasks can be efficiently executed on quantum machines, giving rise to hybrid systems, where some portions of an application run on classical machines, while others utilize quantum resources. However, existing methods
+often to identify candidates to quantum execution (quantum candidates) involve a trial-and-error approach, relying on the intuition and expertise of computer scientists, resulting in varying identification durations ranging from minutes to days for a single application.
+This paper aims to systematically formalize the process of identifying quantum candidates and their proper encoding within classical programs. Our work addresses the critical initial step in the development of automated reasoning techniques for code-to-code translation, laying the foundation for more efficient quantum software engineering. 
+
+The full paper is available on [arXiv](https://arxiv.org/abs/2503.11450).
+
+
