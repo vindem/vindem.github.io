@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Paper accepted in QC-CSAA"
+date:   2025-01-23 10:19:00 +0100
+categories: conference-paper
+author: Vincenzo De Maio
+tags: publications, conferences
+---
+Our newest paper "Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes", co-authored with Felix Zilk, Alessandro Tundo, and Ivona Brandic, has been accepted in the 2025 edition of the IEEE International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) (co-located with [IEEE ISVLSI](https://www.ieee-isvlsi.org/ISVLSI_2025_Website/index.html)). 
+
+Abstract: With the increasing capabilities of quantum systems, the efficient, practical execution of quantum programs is becoming more critical. Each execution includes compilation time, which accounts for substantial overhead of the overall program runtime. To address this challenge, proposals that leverage precompilation techniques have emerged, whereby entire circuits or select components are precompiled to mitigate the compilation time spent during execution. Considering the impact of compilation time on quantum program execution, identifying the contribution of each individual compilation task to the execution time is necessary in directing the community's research efforts towards the development of an efficient compilation and execution pipeline. In this work, we perform a preliminary analysis of the quantum circuit compilation process in Qiskit, examining the cumulative runtime of each individual compilation task and identifying the tasks that most strongly impact the overall compilation time. Our results indicate that, as the desired level of optimization increases, circuit optimization and gate synthesis passes become the dominant tasks in compiling a Quantum Fourier Transform, with individual passes consuming up to 87% of the total compilation time. Mapping passes require the most compilation time for a GHZ state preparation circuit, accounting for over 99% of total compilation time. 
+
+The full paper is available on [arXiv](https://arxiv.org/abs/2504.15141).
+
+
