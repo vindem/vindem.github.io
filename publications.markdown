@@ -17,6 +17,7 @@ permalink: /publications/
 * * *
 My academic peer-reviewed publications.
 ## 2025
+- Felix Zilk, Alessandro Tundo, Vincenzo De Maio, Ivona Brandic: *Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes* QC-CSAA (co-located with IEEE ISVLSI) [arXiv preprint](https://arxiv.org/abs/2504.15141)
 - Sabrina Herbst, Sandeep Suresh Cranganore, Vincenzo De Maio, Ivona Brandic: *Exploring Channel Distinguishability in Local Neighborhoods of the Model Space in Quantum Neural Networks* ICLR 2025 (to appear) [arXiv preprint](https://arxiv.org/abs/2410.09470)
 - Vincenzo De Maio, Ivona Brandic, Ewa Deelman, Jürgen Cito: *The Road to Hybrid Quantum Programs: Characterizing the Evolution from Classical to Hybrid Quantum Software* QSE-NE (co-located with ESEC/FSE 2025) [arXiv preprint](https://arxiv.org/abs/2503.11450)
 
