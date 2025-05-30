@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper accepted in QC-CSAA"
+title:  "Mention in Atlas der guten Lehre"
 date:   2025-01-23 10:19:00 +0100
 categories: teaching
 author: Vincenzo De Maio
