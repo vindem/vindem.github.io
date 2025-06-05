@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New position as Lecturer (Assistant Professor) in Distributed Systems"
-date:   2024-10-01 18:27:00 +0100
+date:   2025-06-01 08:00:00 +0000
 categories: professional
 author: Vincenzo De Maio
 tags: position, leicester

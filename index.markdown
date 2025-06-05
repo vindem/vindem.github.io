@@ -6,7 +6,7 @@ layout: default
 ---
 # About
 
-Hello! I am Vincenzo De Maio, Ph.D. from the [HPC research group](http://hpc.ec.tuwien.ac.at/) of [TU Wien](http://tuwien.ac.at), Institute of Information Systems Engineering. My supervisor is [prof. Ivona Brandic](https://informatics.tuwien.ac.at/people/ivona-brandic).
+Hello! I am Vincenzo De Maio, Lecturer in Distributed Systems at the [University of Leicester](https://leicester.ac.uk)
 
 My research lies at the intersection between quantum computing and high-performance computing, with the ultimate goal of harnessing potential of quantum computers to address the increasing demands of future scientific applications. I am also interested in resource allocation for Cloud-Edge Computing, IoT infrastructures and Blockchain technologies.
 
