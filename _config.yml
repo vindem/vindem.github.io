@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: My personal page
-email: vincenzo@ec.tuwien.ac.at
+email: vdm6@leicester.ac.at / vincenzo@ec.tuwien.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website! I am Dr. Vincenzo De Maio from Vienna University of Technology. Here you will find information about myself and my research and dissemination activities. 
 baseurl: "" # the subpath of your site, e.g. /blog
