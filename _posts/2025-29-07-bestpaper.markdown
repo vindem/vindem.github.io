@@ -6,5 +6,5 @@ categories: publications
 author: Vincenzo De Maio
 tags: awards, quantum
 ---
-The paper “Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes”, co-authored with Felix Zilk, Alessandro Tundo, and Ivona Brandic, received the Springer Nature sponsored Best Paper Award at the Quantum Computer Workshop of IEEE ISVLSI. More information on this achievement can be found here (https://informatics.tuwien.ac.at/news/2948)[https://informatics.tuwien.ac.at/news/2948]. 
+The paper “Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes”, co-authored with Felix Zilk, Alessandro Tundo, and Ivona Brandic, received the Springer Nature sponsored Best Paper Award at the Quantum Computer Workshop of IEEE ISVLSI. More information on this achievement can be found here https://informatics.tuwien.ac.at/news/2948. 
 

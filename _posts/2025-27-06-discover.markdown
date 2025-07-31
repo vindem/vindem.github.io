@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "DISCOVER-US Research Scholarship"
+date:   2025-06-01 08:01:00 +0000
+categories: grants
+author: Vincenzo De Maio
+tags: awards, grants, scholarships
+---
+I received the DISCOVER-US scholarship (10,000 EUR) to visit the University of Southern California in the beginning of 2026. My host will be prof. Ewa Deelman, and I will use this time continue my work on Hybrid Quantum-Classical Workflows with her group.
+
