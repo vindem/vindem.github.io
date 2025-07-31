@@ -12,7 +12,7 @@ My experience with research projects.
 <table>
 <tr style="border: none;">
 <td style="border: none;"> <strong>CARNATION</strong> </td>
-<td style="border: none;"> 2025 - <strong>today</strong> </td>
+<td style="border: none;"> 2026 - 2030 </td>
 <td style="border: none;"> <strong>PI</strong> </td>
 </tr>
 <tr style="border: none;">
