@@ -18,13 +18,13 @@ My experience with research projects.
 <tr style="border: none;">
 <td style="border: none;" colspan="3">
 <p align="justify">
-
+GTA PhD Studentship at the University of Leicester. In CARNATION, the candidate will focus on the distribution of computation between classical and quantum machines; the candidate will then focus on distributed encoding, where methods such as Quantum Random Access Codes could be explored to distribute encoded classical input to different quantum machines; alternatively, the candidate could focus on circuit knitting and circuit cutting methods, and identify ways to distribute the computation to optimize for different performance metrics; Also, studying interoperation between quantum hardware nodes and the factors influencing quantum distributed computing will provide a significant contribution, ensuring high-quality research output for the next three-four years and further exploitation. More information [here](https://www.findaphd.com/phds/project/gta-funded-carnation-scalable-hybrid-quantum-classical-distributed-computing/?p186012).
 </p>
 </td>
 </tr>
 <tr style="border: none;">
 <td style="border: none;">
-<a href="https://projekte.ffg.at/projekt/4562957">https://projekte.ffg.at/projekt/4562957</a>
+<a href="https://le.ac.uk/study/research-degrees/funded-opportunities/computer-science-gta-2025">https://le.ac.uk/study/research-degrees/funded-opportunities/computer-science-gta-2025</a>
 </td>
 </tr>
 </table>
