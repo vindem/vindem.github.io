@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Paper accepted at IEEE Transactions on Services Computing"
+date:   2025-09-02 11:06:00 +0000
+categories: publications
+author: Vincenzo De Maio
+tags: blockchain, distributed systems, edge computing
+---
+The paper “FRESCO: Fast and Reliable Edge Offloading with Reputation-based Hybrid Smart Contracts”, co-authored with Josip Zilic, Shashikant Ilager, and Ivona Brandic, has been accepted for publication in the journal IEEE Transactions on Services Computing.
+
+Abstract: Mobile devices offload latency-sensitive application tasks to edge servers to satisfy applications' Quality of Service (QoS) deadlines. Consequently, ensuring reliable offloading without QoS violations is challenging in distributed and unreliable edge environments. However, current edge offloading solutions are either centralized or do not adequately address challenges in distributed environments. We propose FRESCO, a fast and reliable edge offloading framework that utilizes a blockchain-based reputation system, which enhances the reliability of offloading in the distributed edge. The distributed reputation system tracks the historical performance of edge servers, while blockchain through a consensus mechanism ensures that sensitive reputation information is secured against tampering. However, blockchain consensus typically has high latency, and therefore we employ a Hybrid Smart Contract (HSC) that automatically computes and stores reputation securely on-chain (i.e., on the blockchain) while allowing fast offloading decisions off-chain (i.e., outside of blockchain). The offloading decision engine uses a reputation score to derive fast offloading decisions, which are based on Satisfiability Modulo Theory (SMT). The SMT models edge resource constraints, and QoS deadlines, and can formally guarantee a feasible solution that is valuable for latency-sensitive applications that require high reliability. With a combination of on-chain HSC reputation state management and an off-chain SMT decision engine, FRESCO offloads tasks to reliable servers without being hindered by blockchain consensus. We evaluate FRESCO against real availability traces and simulated applications. FRESCO reduces response time by up to 7.86 times and saves energy by up to 5.4% compared to all baselines while minimizing QoS violations to 0.4% and achieving an average decision time of 5.05 milliseconds.
+
+The full paper is available on [arXiv](https://arxiv.org/abs/2410.06715). 
+
