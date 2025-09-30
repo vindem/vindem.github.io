@@ -1,0 +1,20 @@
+---
+layout: post
+title:  ALPAQA Project Accepted
+date:   2025-09-02 11:06:00 +0000
+categories: grants
+author: Vincenzo De Maio
+tags: projects, grants, awards
+---
+My project **ALPAQA** (Advancing Learning PAradigms for photonic QuAntum processors), where I am co-PI with Prof. Philipp Walther and Prof. Ivona Brandic, has been awarded 799,675 EUR by [WWTF](https://www.wwtf.at).  
+
+Abstract: As we enter the post-Moore era, classical hardware struggles to scale with the growing data and energy demands of modern Information and Communication Technology (ICT). Quantum computing, particularly photonics, offers a promising, resource-efficient pathway for next-generation hardware, and is thus heavily studied. Within that, in response to the high energy consumption of classical machine learning (ML) models, Quantum Machine Learning (QML), which leverages quantum hardware for ML, has emerged as a promising application.
+
+A crucial element within ML are non-linearities, which allow capturing intricate patterns in high-dimensional data, contrasting with the inherent linear dynamics of quantum computing. Thus, one of the key questions is how to introduce non-linearities into QML. Neuromorphic computing holds a significant promise in that regard, for example through the use of so-called memristors. Recent advancements in quantum technology have led to the design and implementation of the quantum version of memristors, combining quantum and neuromorphic computing. However, several questions remain open about their usage in QML with classical/quantum data, predictive performance, and energy efficiency.
+
+This proposal investigates the potential of photonic quantum memristors in advancing QML. By exploring both theoretical and experimental approaches, we aim to develop new learning paradigms and contribute to the development of efficient, scalable quantum ML systems.
+ 
+Keywords: quantum machine learning, quantum computing, quantum photonics
+
+More information available [here](https://wwtf.at/funding/programmes/ict/ICT25-062/). 
+
