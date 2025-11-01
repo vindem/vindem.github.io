@@ -11,7 +11,26 @@ My experience with research projects.
 
 <table>
 <tr style="border: none;">
-<td style="border: none;"> <strong>CARNATION</strong> </td>
+<td style="border: none;"> <strong>ALPAQA</strong> (EUR 799,675)</td>
+<td style="border: none;"> 2026 - 2028 </td>
+<td style="border: none;"> <strong>PI</strong> </td>
+</tr>
+<tr style="border: none;">
+<td style="border: none;" colspan="3">
+<p align="justify">
+This proposal is a collaboration with the group of Philipp Walther from University of Vienna and investigates the potential of photonic quantum memristors in advancing QML. By exploring both theoretical and experimental approaches, we aim to develop new learning paradigms and contribute to the development of efficient, scalable quantum ML systems.
+</td>
+</tr>
+<tr style="border: none;">
+<td style="border: none;">
+<a href="https://wwtf.at/funding/programmes/ict/ICT25-062/">https://wwtf.at/funding/programmes/ict/ICT25-062/</a>
+</td>
+</tr>
+</table>
+***
+<table>
+<tr style="border: none;">
+<td style="border: none;"> <strong>CARNATION</strong> (GBP 112,000)</td>
 <td style="border: none;"> 2026 - 2030 </td>
 <td style="border: none;"> <strong>PI</strong> </td>
 </tr>
