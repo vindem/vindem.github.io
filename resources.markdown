@@ -22,6 +22,7 @@ Useful resources, not necessarily correlated to my work.
 - [Vienna University Researchers Develop Quantum Edge for Efficient IoT Data Streaming](https://quantumzeitgeist.com/vienna-university-researchers-develop-quantum-edge-for-efficient-iot-data-streaming/amp/), our QuickPar 2023 article featured in [Quantum Zeitgeist](https://quantumzeitgeist.com/) (arxiv preprint accessible [here](https://arxiv.org/pdf/2402.15542.pdf))
 - [Quantencomputer und Supercomputer in einem](https://www.tuwien.at/tu-wien/aktuelles/news/news/quantencomputer-und-supercomputer-in-einem) (GER), an article about our work on FFG HPQC project. English version available [here](https://informatics.tuwien.ac.at/news/2618).
 - [Quantum in the Cloud](https://youtu.be/yPDCr70OVrw?si=LDrN6EpZ7k0HoIBJ), my talk for  [Second Eisenstadt Cloud Day](https://cloud-day.hochschule-burgenland.at/2025/) is available on YouTube.
+- [Challenges and Opportunities for Hybrid Quantum-Classical Systems](https://youtu.be/8bX9YGHSWnc), my talk for the Scientific Computing Seminar of the University of Southern California, Information Science Institute, is available on YouTube. 
 
 ## Interesting Readings
 - [Scott Aaronson Blog](https://scottaaronson.blog/), the personal blog of Scott Aaronson, one of my favourite scientists.
