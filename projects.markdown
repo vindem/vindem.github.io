@@ -19,6 +19,7 @@ My experience with research projects.
 <td style="border: none;" colspan="3">
 <p align="justify">
 This proposal is a collaboration with the group of Philipp Walther from University of Vienna and investigates the potential of photonic quantum memristors in advancing QML. By exploring both theoretical and experimental approaches, we aim to develop new learning paradigms and contribute to the development of efficient, scalable quantum ML systems.
+</p>
 </td>
 </tr>
 <tr style="border: none;">
