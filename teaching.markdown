@@ -14,4 +14,18 @@ My teachings in the course of my academic career.
 * Lab exercises in Concurrent and Parallel Programming, University of Salerno, Summer term 2015-2016. 
 * [Einführung in die Programmierung](https://usi.uibk.ac.at/public/lfuonline_lv.home?r=136219#lv-details) University of Innsbruck, Winter term 2015-2016.
 
+# Invited Lectures
+* * *
+
+## Sustainability in the Post-Moore Era: Challenges and Opportunities
+
+**TU Wien - Sustainability in Computer Science lecture series**
+*11 January 2027*
+
+I will give a public lecture on the sustainability challenges arising from the continued growth of computing beyond the traditional Moore's Law scaling regime.
+
+The lecture will examine the energy and environmental costs of modern computing, with particular attention to high-performance computing and quantum computing. It will discuss the opportunities and limitations of emerging computing paradigms, and consider what “sustainable computing” might mean when computational demand continues to increase.
+
+[Lecture announcement at TU Wien](https://informatics.tuwien.ac.at/news/3230)
+
 
