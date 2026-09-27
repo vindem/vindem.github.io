@@ -7,6 +7,10 @@ permalink: /awards/
 ---
 # Grants, Awards and Honors
 * * *
+* **Okinawa Institute of Science and Technology (OIST) — Visiting Scholar** *OIST Visiting Program · 2027* - Selected as a **Visiting Scholar** through the OIST Visiting Program for a research visit in Computer Science from **25 March to 22 June 2027**. The programme supports international researchers in pursuing independent research and developing interdisciplinary collaborations at OIST.
+
+[OIST Visiting Program — Visitor Listing](https://www.oist.jp/visiting-program/visitors-list)
+
 
 * **Best Paper Award ISVLSI 2025** for the paper "Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes”, co-authored with Felix Zilk, Alessandro Tundo and Ivona Brandic, and published at the Quantum Computing Workshop of IEEE ISVLSI: [arXiv](https://arxiv.org/abs/2504.15141). 
 
