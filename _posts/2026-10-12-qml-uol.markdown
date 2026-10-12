@@ -1,0 +1,15 @@
+---
+layout: post
+title:  New MSc module: Quantum Machine Learning
+date:   2026-10-12 11:06:00 +0200
+categories: teaching
+author: Vincenzo De Maio
+tags: teaching, quantum machine learning, leicester
+---
+**New for 2026/27**: I will be launching a new MSc elective module on Quantum Machine Learning at the University of Leicester. The course combines quantum computing, machine learning, learning theory, benchmarking, and hybrid quantum classical systems, with hands-on development using PennyLane and modern quantum computing tools. More details [here](/teaching/qml-uol) 
+
+
+
+
+
+
