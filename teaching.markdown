@@ -9,6 +9,7 @@ permalink: /teaching/
 * * *
 My teachings in the course of my academic career.
 
+* [Quantum Machine Learning](/teaching/qml-uol/), University of Leicester, Semester 2, **New for 2026-2027**
 * [Quantum Computing, Complexity Theory and Algorithmics](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=5546&dsrid=422&semester=2024W&courseNr=192043), TU Wien, Winter term 2024-2025.
 * [Hybrid Classical Quantum Systems](/teaching/hcqs/), TU Wien, Winter term 2023-2024, 2024-2025. This lecture has been featured on the [Atlas der gute Lehre](https://gutelehre.at/ueber-uns), the official website of the [Austrian Ministry of Women, Science and Research](https://www.bmfwf.gv.at/) showcasing best practices in University teaching. The page about this lecture can be found [here](https://gutelehre.at/projekt/hybrid-quantum-classical-systems?no_cache=1) (in German).
 * Lab exercises in Concurrent and Parallel Programming, University of Salerno, Summer term 2015-2016. 
