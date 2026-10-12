@@ -2,7 +2,7 @@
 layout: post
 title:  Selected as an OIST Visiting Scholar
 date:   2026-09-27 11:06:00 +0200
-categories: awrds
+categories: awards
 author: Vincenzo De Maio
 tags: grants, fellowships, awards
 ---
